@@ -1,0 +1,6 @@
+id_cliente,nombre,apellido,correo,ciudad,telefono
+1,Juan,Perez,juan@gmail.com,Guayaquil,0991234567
+2,Maria,Lopez,maria@gmail.com,Daule,0987654321
+3,Carlos,Garcia,carlos@gmail.com,Milagro,0971234567
+4,Ana,Torres,ana@gmail.com,Durán,0961234567
+5,Pedro,Sanchez,pedro@gmail.com,Guayaquil,0951234567
